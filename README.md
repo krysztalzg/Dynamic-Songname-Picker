@@ -1,7 +1,7 @@
 Dynamic Songname Picker
 =
 
-What it is?
+What is it?
 -
 This script allows to get song title from Winamp, Dubtrack or Plug.dj. Currently chosen service can be changed while script is working without need to reload or relaunch.
 
